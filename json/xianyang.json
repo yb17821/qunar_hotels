@@ -1,0 +1,9 @@
+{{"dname": "富豪", "qname": "富豪", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "国际青年旅舍", "qname": "国际青年旅舍", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "汉庭酒店", "qname": "汉庭酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "7天酒店", "qname": "7天酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "派酒店", "qname": "派酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "如家快捷酒店", "qname": "如家快捷酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "维景国际", "qname": "维景国际", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "锦江之星酒店", "qname": "锦江之星酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+}

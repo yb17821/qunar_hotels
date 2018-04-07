@@ -1,0 +1,8 @@
+{{"dname": "汉庭酒店", "qname": "汉庭酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "豪生", "qname": "豪生", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "7天酒店", "qname": "7天酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "如家快捷酒店", "qname": "如家快捷酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "颐居酒店", "qname": "颐居酒店", "group": "comfortable", "groupType": "舒适型", "hotDegree": "0"},
+{"dname": "华美达", "qname": "华美达", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "开元大酒店", "qname": "开元大酒店", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+}

@@ -1,0 +1,11 @@
+{{"dname": "艾美", "qname": "艾美", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "假日", "qname": "假日", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "美居", "qname": "美居", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "诺富特", "qname": "诺富特", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "万豪", "qname": "万豪", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "宜必思酒店", "qname": "宜必思酒店", "group": "comfortable", "groupType": "舒适型", "hotDegree": "0"},
+{"dname": "宜必思尚品酒店", "qname": "宜必思尚品酒店", "group": "comfortable", "groupType": "舒适型", "hotDegree": "0"},
+{"dname": "HyattRegency", "qname": "HyattRegency", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "丽笙Blu", "qname": "丽笙Blu", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "贝斯特韦斯特", "qname": "贝斯特韦斯特", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+}

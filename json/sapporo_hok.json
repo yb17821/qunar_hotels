@@ -1,0 +1,13 @@
+{{"dname": "东急", "qname": "东急", "group": "comfortable", "groupType": "舒适型", "hotDegree": "0"},
+{"dname": "假日", "qname": "假日", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "凯富", "qname": "凯富", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "凯莱", "qname": "凯莱", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "美居", "qname": "美居", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "诺富特", "qname": "诺富特", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "Okura", "qname": "Okura", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "东横酒店", "qname": "东横酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "万丽", "qname": "万丽", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "宜必思尚品酒店", "qname": "宜必思尚品酒店", "group": "comfortable", "groupType": "舒适型", "hotDegree": "0"},
+{"dname": "日航国际酒店", "qname": "日航国际酒店", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "贝斯特韦斯特", "qname": "贝斯特韦斯特", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+}

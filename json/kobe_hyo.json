@@ -1,0 +1,7 @@
+{{"dname": "阪急", "qname": "阪急", "group": "comfortable", "groupType": "舒适型", "hotDegree": "0"},
+{"dname": "东急", "qname": "东急", "group": "comfortable", "groupType": "舒适型", "hotDegree": "0"},
+{"dname": "皇冠假日", "qname": "皇冠假日", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "Okura", "qname": "Okura", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "东横酒店", "qname": "东横酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "喜来登", "qname": "喜来登", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+}

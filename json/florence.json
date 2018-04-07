@@ -1,0 +1,11 @@
+{{"dname": "假日", "qname": "假日", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+{"dname": "瑞吉", "qname": "瑞吉", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "四季", "qname": "四季", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "万豪", "qname": "万豪", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "威斯汀", "qname": "威斯汀", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "希尔顿", "qname": "希尔顿", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "速8酒店", "qname": "速8酒店", "group": "cheap", "groupType": "经济型", "hotDegree": "0"},
+{"dname": "希尔顿花园酒店", "qname": "希尔顿花园酒店", "group": "comfortable", "groupType": "舒适型", "hotDegree": "0"},
+{"dname": "美憬阁", "qname": "美憬阁", "group": "higher", "groupType": "豪华型", "hotDegree": "0"},
+{"dname": "贝斯特韦斯特", "qname": "贝斯特韦斯特", "group": "normal", "groupType": "高档型", "hotDegree": "0"},
+}
