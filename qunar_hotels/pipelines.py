@@ -21,8 +21,9 @@ class QunarHotelsPipeline(object):
         self.collection = self.db[today]
 
     def close_spider(self, spider):
-        self.client.close()
         self.db.close()
+        self.client.close()
+        
 
     def process_item(self, item, spider):
 
